@@ -18,9 +18,9 @@ String value= "3.14159";
 		//    The first value is "pi.charAt(0)", the second is "pi.charAt(1)", etc.
 		//    Run your program to see how this works.
 
-System.out.println(value.charAt(0));
-System.out.println(value.charAt(1));
-System.out.println(value.charAt(2));
+//System.out.println(value.charAt(0));
+//System.out.println(value.charAt(1));
+//System.out.println(value.charAt(2));
 
 
 
