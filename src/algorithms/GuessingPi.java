@@ -26,7 +26,9 @@ String value= "3.14159";
 
 		// 9. If you want to give the user more than one chance to guess,
 		//    put a for loop around steps 4-8.
-
+for (int i = 0; i < 100; i++) {
+	
+}
 			// 4. Create a for loop that will step through each digit of pi (steps 5-8)
 			//    NOTE: The number of digits in your string will be
 			//       yourStringVariable.length()
